@@ -6,7 +6,7 @@ Clonar o Repositório Primeiro, clone o repositório do projeto FrontendWebAirCn
 
 Instalar Dependências Navegue até o diretório raiz do projeto clonado e execute o seguinte comando no terminal para instalar todas as dependências do projeto:
 npm install 
-npm start
+npm run dev 
 Este comando iniciará o servidor de desenvolvimento e abrirá automaticamente uma janela do navegador com o projeto em execução.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
